@@ -1,2 +1,2 @@
-# wpsitesync-httpauth
-WPSiteSync for HTTP Authentication public repository
+# sync-httpauth
+WPSiteSync for HTTP Authentication
